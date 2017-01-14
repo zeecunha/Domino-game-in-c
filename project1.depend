@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1477929376 source:c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\dominos.c
+	<stdio.h>
+	<stdlib.h>
+	"dominos.h"
+	"random.h"
+
+1477927889 c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\dominos.h
+
+1477931061 source:c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"dominos.h"
+
+1477927889 c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\random.h
+
+1477929376 source:c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\hands.c
+	<stdio.h>
+	"hands.h"
+
+1477928228 c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\hands.h
+
+1477927889 source:c:\users\zeecunha\desktop\ufp\4final\1semestre\lp1\project1\random.c
+	<stdlib.h>
+	"random.h"
+
+1480278154 source:c:\users\zeecunha\desktop\project1\dominos.c
+	<stdio.h>
+	<stdlib.h>
+	"dominos.h"
+
+1480278054 c:\users\zeecunha\desktop\project1\dominos.h
+
+1477927889 c:\users\zeecunha\desktop\project1\random.h
+
+1479143212 source:c:\users\zeecunha\desktop\project1\hands.c
+	<stdio.h>
+	"hands.h"
+
+1479143212 c:\users\zeecunha\desktop\project1\hands.h
+
+1480347402 source:c:\users\zeecunha\desktop\project1\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"dominos.h"
+
+1479747164 source:c:\users\zeecunha\desktop\project1\random.c
+	<stdlib.h>
+	"random.h"
+
